@@ -1,0 +1,1 @@
+This project is to clone the Google homepage as a consolidation of the coding skills I have gained from my HND
