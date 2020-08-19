@@ -1,0 +1,43 @@
+body{
+    margin: 0 auto;;
+    padding: 0;
+}
+
+/* NAV STYLES */
+
+nav{
+    font-size:.8rem;
+}
+
+nav ul li{
+    display:inline;
+}
+
+.floatl{
+    float:left;
+}
+
+.floatr{
+    float:right;
+}
+
+.contain{
+    clear:both;
+}
+
+/* CONTENT STYLES */
+
+.content{
+    margin:0 auto;
+    text-align:center;
+}
+
+/* Footer Styles */
+
+footer{
+    font-size:.8rem;
+}
+
+footer ul li{
+    display:inline;
+}
