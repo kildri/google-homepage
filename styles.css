@@ -1,6 +1,7 @@
 body{
     margin: 0 auto;;
     padding: 0;
+    font-family:'Roboto', sans-serif;
 }
 
 /* NAV STYLES */
@@ -16,6 +17,7 @@ ul{
 
 nav ul li{
     display:inline;
+    margin:8px;
 }
 
 .floatl{
@@ -31,6 +33,10 @@ nav ul li{
 }
 
 /* CONTENT STYLES */
+
+.wrap{
+    margin:25px;
+}
 
 .content{
     margin:0 auto;
