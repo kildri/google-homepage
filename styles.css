@@ -9,6 +9,11 @@ nav{
     font-size:.8rem;
 }
 
+ul{
+    margin:0;
+    padding:0;
+}
+
 nav ul li{
     display:inline;
 }
